@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="172" src="https://res.cloudinary.com/db90ecj9w/image/upload/c_fit,h_500,q_100,r_30/v1696609801/web_r2jwul.svg"  />
+<img height="272" src="https://res.cloudinary.com/db90ecj9w/image/upload/v1696612327/Web/web_bmqzgz.svg" />
 </div>
 
 ###
@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 Interested in Technology.<br>- 📚 I'm currently learning React Native<br>- ⚡ In my free time I</p>
+<p align="left">- 🔭 Interested in Technology.<br>- 📚 I'm currently learning React Native<br></p>
 
 ###
 
@@ -73,3 +73,5 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mossajehad&" alt="mossajehad" /></p>

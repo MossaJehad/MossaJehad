@@ -1,6 +1,8 @@
 <div align="center">
-  <img height="272" src="https://res.cloudinary.com/db90ecj9w/image/upload/v1696612327/Web/web_bmqzgz.svg"  />
+  <img height="172" src="https://res.cloudinary.com/db90ecj9w/image/upload/c_fit,h_500,q_100,r_30/v1696609801/web_r2jwul.svg"  />
 </div>
+
+###
 
 <br clear="both">
 
@@ -11,8 +13,8 @@
   <a href="https://www.behance.net/mossajehad" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="behance logo"  />
   </a>
-  <a href="https://t.me/Mossa_Jehad" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  <a href="https://x.com/mossa_jehad" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
 </div>
 
@@ -28,7 +30,7 @@
 
 ###
 
-<p align="left">- 🔭 Interested in Technology.<br>- 📚 I'm currently learning React Native<br></p>
+<p align="left">I'm ... from ....<br><br>- 🔭 Interested in Technology.<br>- 📚 I'm currently learning React Native<br>- ⚡ In my free time I</p>
 
 ###
 
@@ -71,5 +73,3 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mossajehad&" alt="mossajehad" /></p>

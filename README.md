@@ -31,7 +31,14 @@
 
 ###
 
-<p align="left">- 🔭 Interested in Technology.<br>- 📚 I'm currently learning React Native<br></p>
+- 💻 MERN Stack Developer  
+- 🎓 Student at [42 Amman](https://42amman.com/), sharpening my coding skills
+
+<p align="left">
+  🔭 Passionate about Technology and Innovation.<br>
+  📚 Currently diving deep into React Native.<br>
+</p>
+
 
 ###
 

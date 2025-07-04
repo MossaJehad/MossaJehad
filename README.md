@@ -16,7 +16,7 @@
   <a href="https://x.com/mossa_jehad" target="_blank">
     <img src="https://img.shields.io/static/v1?message=X&logo=X&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="X logo"  />
   </a>
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=a&label=Profile%20views&color=ffffff&style=for-the-badge" alt="a" /> </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=a&label=Profile%20views&color=blue&style=for-the-badge" alt="a" /> </p>
 </div>
 
 ###
